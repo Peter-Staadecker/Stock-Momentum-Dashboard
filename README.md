@@ -10,5 +10,5 @@ The dashboard uses Google Sheets for easy input of the ticker symbols and easy d
 runs in a Google Sheet script. Using the program assumes you have some knowledge of using Google Sheets and have a Google account.
 
 You can copy the required Google Sheet and script into your Google drive using a link provided to my Google Drive. The link and full instructions on how to load the program, 
-modify the stock tickers to those that interest you, and how to run the program are provided in the Github file "the stock momentum dashboard - how to load and use.pdf"
+modify the stock tickers to those that interest you, and how to run the program are provided in the Github file "the stock momentum dashboard v5 - how to load and use.pdf"
 

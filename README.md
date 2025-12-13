@@ -1,5 +1,7 @@
 This program allows you to input a list of stock and ETF ticker symbols into a Google Sheet. For each ticker entered the program 
-will calculate the annualized percentage price changes over the previous 1, 3, 6 and 12 months.
+will calculate the annualized percentage price changes over the previous 1, 3, 6 and 12 months. 
+
+The program uses closing prices for those dates, not adjusted closing prices.
 
 If you optionally also input a purchase date for a ticker, the program will calculate the annualized percentage price change since the purchase date.
 
